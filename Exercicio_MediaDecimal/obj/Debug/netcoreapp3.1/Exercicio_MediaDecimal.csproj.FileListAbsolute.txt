@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\bin\Debug\netcoreapp3.1\Exercicio_MediaDecimal.exe
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\bin\Debug\netcoreapp3.1\Exercicio_MediaDecimal.deps.json
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\bin\Debug\netcoreapp3.1\Exercicio_MediaDecimal.runtimeconfig.json
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\bin\Debug\netcoreapp3.1\Exercicio_MediaDecimal.runtimeconfig.dev.json
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\bin\Debug\netcoreapp3.1\Exercicio_MediaDecimal.dll
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\bin\Debug\netcoreapp3.1\Exercicio_MediaDecimal.pdb
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\obj\Debug\netcoreapp3.1\Exercicio_MediaDecimal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\obj\Debug\netcoreapp3.1\Exercicio_MediaDecimal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\obj\Debug\netcoreapp3.1\Exercicio_MediaDecimal.AssemblyInfo.cs
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\obj\Debug\netcoreapp3.1\Exercicio_MediaDecimal.dll
+C:\Users\User\Desktop\pc 1\Exercicio_MediaDecimal\obj\Debug\netcoreapp3.1\Exercicio_MediaDecimal.pdb
